@@ -1,0 +1,5 @@
+author: Pawel "Nmn" Zarczynski (http://paul.drdteam.org/)
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/monster-for-3d-shooter-sprite
+
+A flying monster for a 3d Doom-esque shooter (3d shooter that uses sprites for enemies like Wolfenstein 3D or Doom). Inspired by HP Lovecraft works.
