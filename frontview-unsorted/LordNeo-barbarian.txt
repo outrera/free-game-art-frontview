@@ -1,0 +1,5 @@
+Authors: LordNeo
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/barbarian-static-64x64
+
+if you want a barbarian unit for your civ-like TBS game this is a first step....

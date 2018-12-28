@@ -1,0 +1,9 @@
+Authors: Daniel Harris "Hyptosis" (http://lorestrome.com/)
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/simple-battles
+
+16 front-view "battlers", and 3 backgrounds for a simple 1 vs 1 turn-based combat system. These were all drawn by Hyptosis, most of them originally for SimpleQuest; a few of them were previously released. Released with permission.
+
+All of the art uses Dawnbringer's 16-color palette. The scenes are vertical backgrounds, intended to fit the entire height and half the width of a 320x240 screen. The battlers are the same size, with transparent space around them to position them properly.
+
+(The tileset visible in the background of the example screenshot is Tiny 16 by Sharm -- https://opengameart.org/content/tiny-16-basic)
